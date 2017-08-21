@@ -1,0 +1,14 @@
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.cache
+*.suo
+*.sln
+*.config
+*.json
+
+bin/
+obj/
+App_Data/
+node_modules/
